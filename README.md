@@ -8,3 +8,5 @@ This project covers building an application in Django, specifically building an 
 - implement unit tests
 - test the API with the Insomnia REST client
 
+
+
