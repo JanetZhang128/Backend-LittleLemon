@@ -1,6 +1,6 @@
 # Backend-LittleLemon
 This project covers building an application in Django, specifically building an API for the Little Lemon restaurant using the Django REST Framework.
-** Tasks **
+### Tasks 
 - use Django to serve static HTML content
 - connect the backend to a MySQL database
 - implement the menu and table booking APIs
